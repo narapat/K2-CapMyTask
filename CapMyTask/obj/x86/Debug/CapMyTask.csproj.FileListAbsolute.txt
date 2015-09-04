@@ -1,0 +1,9 @@
+C:\K2 CustomControl\CapMyTask\CapMyTask\bin\Debug\CapMyTask.exe.config
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.FrmCaptureDetail.resources
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.Properties.Resources.resources
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.csproj.GenerateResource.Cache
+C:\K2 CustomControl\CapMyTask\CapMyTask\bin\Debug\CapMyTask.exe
+C:\K2 CustomControl\CapMyTask\CapMyTask\bin\Debug\CapMyTask.pdb
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.exe
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.pdb
+C:\K2 CustomControl\CapMyTask\CapMyTask\obj\x86\Debug\CapMyTask.csprojResolveAssemblyReference.cache
